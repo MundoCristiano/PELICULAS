@@ -54,6 +54,7 @@ ul {
 }
 
 .iconos {
+    border: solid 1px lightgray;
     width: 360px;
     height: 202px;
     border-radius: 5px;
